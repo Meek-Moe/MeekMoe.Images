@@ -10,7 +10,7 @@ namespace MeekMoe.Test
         {
             Console.WriteLine("Hello World!");
             var m = new MeekMoeImagesClient();
-            var img = await m.GetMoeApiImageAsync(e)
+            var img = await m.GetMoeApiImageAsync(0);
         }
     }
 }
