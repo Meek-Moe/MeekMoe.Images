@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeekMoe.Images", "MeekMoe.Images\MeekMoe.Images.csproj", "{035DE11B-A219-47A0-A2A1-D5AB796D97A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeekMoe.Test", "MeekMoe.Test\MeekMoe.Test.csproj", "{8EBAAA0F-515E-46E5-A2BB-A39E514850A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035DE11B-A219-47A0-A2A1-D5AB796D97A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035DE11B-A219-47A0-A2A1-D5AB796D97A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035DE11B-A219-47A0-A2A1-D5AB796D97A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035DE11B-A219-47A0-A2A1-D5AB796D97A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBAAA0F-515E-46E5-A2BB-A39E514850A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBAAA0F-515E-46E5-A2BB-A39E514850A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBAAA0F-515E-46E5-A2BB-A39E514850A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBAAA0F-515E-46E5-A2BB-A39E514850A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1590C760-0DF7-4688-8C7E-302D806B4DBF}
+	EndGlobalSection
+EndGlobal
