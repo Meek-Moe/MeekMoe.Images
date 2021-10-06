@@ -5,10 +5,22 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Get random Volcaloid (and older 'loids) images fromt he meek.moe API</Description>
     <PackageTags>api; vocaloid; images; random images</PackageTags>
+    <RepositoryUrl>https://github.com/Meek-Moe/MeekMoe.Images</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Meek-Moe/MeekMoe.Images</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Authors>Sekoree(#3939)</Authors>
+    <Copyright>Sekoree(#3939)</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
